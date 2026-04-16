@@ -1,6 +1,9 @@
 # Alt App Installer
-
 A program to  download and install microsoft store apps, for cli version check [alt app installer cli](https://github.com/mjishnu/alt-app-installer-cli)
+
+> **⚠️ Alt App Installer is now superseded by Raven. It provides improved stability and many new features. Alt App Installer will continue to be maintained, but we strongly recommend users to adopt Raven. ⚠️**
+>
+>  Link: https://github.com/mjishnu/Raven
 
 # Features
 
